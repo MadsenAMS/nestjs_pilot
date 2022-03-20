@@ -42,6 +42,5 @@ NEST_README.md
 nest-cli.json
 package-lock.json
 package.json
-src/
 tsconfig.build.json
 tsconfig.json
